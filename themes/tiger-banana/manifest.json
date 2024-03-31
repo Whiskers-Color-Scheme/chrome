@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Whiskers Tiger - Banana",
+  "description": "",
+  "version": "1.0.0",
+  "theme": {
+    "colors": {
+      "frame": [255, 240, 218],
+      "frame_inactive": [255, 240, 218],
+      "frame_incognito": [255, 236, 207],
+      "frame_incognito_inactive": [255, 236, 207],
+      "bookmark_text": [62, 25, 0],
+      "tab_background_text": [134, 92, 58],
+      "tab_background_text_inactive": [134, 92, 58],
+      "tab_background_text_incognito": [134, 92, 58],
+      "tab_background_text_incognito_inactive": [134, 92, 58],
+      "tab_text": [62, 25, 0],
+      "toolbar": [255, 249, 240],
+      "toolbar_button_icon": [168, 123, 10],
+      "omnibox_text": [62, 25, 0],
+      "omnibox_background": [255, 240, 218],
+      "ntp_background": [255, 249, 240],
+      "ntp_link": [62, 25, 0],
+      "ntp_text": [255, 0, 0],
+      "button_background": [255, 249, 240]
+    }
+  }
+}

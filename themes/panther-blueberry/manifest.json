@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Whiskers Panther - Blueberry",
+  "description": "",
+  "version": "1.0.0",
+  "theme": {
+    "colors": {
+      "frame": [27, 11, 0],
+      "frame_inactive": [14, 6, 0],
+      "frame_incognito": [80, 32, 0],
+      "frame_incognito_inactive": [80, 32, 0],
+      "bookmark_text": [255, 238, 226],
+      "tab_background_text": [229, 210, 197],
+      "tab_background_text_inactive": [229, 210, 197],
+      "tab_background_text_incognito": [229, 210, 197],
+      "tab_background_text_incognito_inactive": [229, 210, 197],
+      "tab_text": [255, 238, 226],
+      "toolbar": [14, 6, 0],
+      "toolbar_button_icon": [165, 206, 255],
+      "omnibox_text": [255, 238, 226],
+      "omnibox_background": [27, 11, 0],
+      "ntp_background": [14, 6, 0],
+      "ntp_link": [255, 238, 226],
+      "ntp_text": [255, 238, 226],
+      "button_background": [14, 6, 0]
+    }
+  }
+}
