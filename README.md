@@ -20,7 +20,7 @@ git clone https://github.com/Whiskers-Color-Scheme/chrome
 
 - Go to `chrome://extensions/` and enable developer mode
 - Click on `load unpacked` and select one of the themes inside from the cloned directory
-- Now you can disabled developer mode if needed
+- Now you can disable developer mode if needed
 
 ## 💻 Maintainers
 
